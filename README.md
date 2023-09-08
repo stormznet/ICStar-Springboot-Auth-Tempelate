@@ -15,7 +15,7 @@ This project demonstrates the implementation of security using Spring Boot 3.0 a
 * JSON Web Tokens (JWT)
 * BCrypt
 * Maven
- 
+	 
 ## Getting Started
 To get started with this project, you will need to have the following installed on your local machine:
 
@@ -25,10 +25,12 @@ To get started with this project, you will need to have the following installed 
 
 To build and run the project, follow these steps:
 
-* Clone the repository: `git clone https://github.com/ali-bouali/spring-boot-3-jwt-security.git`
-* Navigate to the project directory: cd spring-boot-security-jwt
-* Add database "jwt_security" to postgres 
+* Clone the repository: `git clone https://github.com/stormznet/ICStar-Springboot-Auth-Tempelate.git
+	`* Navigate to the project directory: cd ICStar-Springboot-Auth-Tempelate
+* Add database "jwt\_security" to mysql 
 * Build the project: mvn clean install
 * Run the project: mvn spring-boot:run 
 
--> The application will be available at http://localhost:8080.
+-\> The application will be available at http://localhost:8080.
+
+[1]:	https://github.com/stormznet/ICStar-Springboot-Auth-Tempelate.git
